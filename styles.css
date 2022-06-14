@@ -3,7 +3,7 @@
 }
 
 h1 {
-    color: rgb(241, 80, 37);
+    color: #f15025;
     background-color: #f5f6ea;
 }
 
@@ -17,7 +17,7 @@ h3 {
     background-color: #f5f6ea;
 }
 
-.photo {
+img {
     width: 612px;
     height:auto;
 }
